@@ -1,5 +1,5 @@
 <!-- Seonh0 -->
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=200&section=header&text=Seonh0&animation=fadeIn&fontColor=7E7E7E&fontSize=90&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=97DBAE&height=200&section=header&text=Seonh0&animation=fadeIn&fontColor=ffffff&fontSize=90&fontAlignY=50)
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">Techs that I've used</p>
